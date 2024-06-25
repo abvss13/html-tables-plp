@@ -1,6 +1,6 @@
-Certainly! Here's the README written in Markdown format:
 
-```markdown
+
+
 # Class Timetable Example
 
 This is a simple example of an HTML timetable using a class schedule. The timetable is created using HTML tables and styled with CSS for clarity and organization.
@@ -112,4 +112,4 @@ This is a simple example of an HTML timetable using a class schedule. The timeta
 This README provides a structured explanation of how to create and style an HTML timetable using tables and CSS. It serves as a reference for understanding the basic elements and attributes used in building such a table for displaying organized data.
 ```
 
-This Markdown format is suitable for easy readability and can be rendered nicely on platforms that support Markdown, such as GitHub and various text editors.
+
